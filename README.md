@@ -4,13 +4,13 @@ Para la construcción se utilizaron 9 de las monedas más representativas del me
 * Bitcoin (BTC/USD)
 * Ethereum (ETH/USD)
 * Tether (USDT/USD)
-* BNB (BNB/USD)
+* Binance (BNB/USD)
 * XRP (XRP/USD)
-* CARDANO(ADABULL/USD)
-* SOLANA (SOL/USD)
-* DOGECOIN (DOGE/USD)
-* POLKADOT (DOT/USD)
-* FTX TOKEN (FTT/USD)
+* Cardano(ADABULL/USD)
+* Solana (SOL/USD)
+* Dogecoin (DOGE/USD)
+* Polkadot (DOT/USD)
+* FTX Token (FTT/USD)
 
 
 Para trabajar con estas monedas se trajo de la API: 
